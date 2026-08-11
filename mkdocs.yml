@@ -1,0 +1,50 @@
+site_name: Chengguang Automotive Battery Market Intelligence
+site_description: Regional battery market analysis, demand trends, and import/export opportunities for automotive batteries
+site_url: https://market.chengguangenergy.com/
+
+theme:
+  name: material
+  palette:
+    primary: purple
+    accent: amber
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - attr_list
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Regions:
+      - regions/index.md
+      - regions/middle-east.md
+      - regions/southeast-asia.md
+      - regions/africa.md
+      - regions/europe.md
+      - regions/north-america.md
+      - regions/south-america.md
+      - regions/australia.md
+      - regions/russia-cis.md
+  - Technologies:
+      - technologies/index.md
+      - technologies/sli.md
+      - technologies/agm.md
+      - technologies/efb.md
+      - technologies/heavy-duty.md
+  - Standards:
+      - standards/index.md
+      - standards/jis.md
+      - standards/din.md
+      - standards/bci.md
+      - standards/as.md
+      - standards/sa.md
+  - Reports:
+      - reports/index.md
