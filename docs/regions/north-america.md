@@ -4,39 +4,42 @@ title: "North America Battery Market"
 
 # North America Battery Market
 
-## Market Overview
+## Market at a Glance
 
-North America is the world's largest BCI-standard battery market with high barriers to entry.
+North America is the world's largest BCI-standard battery market — and the most difficult for foreign manufacturers to enter due to significant anti-dumping duties on Chinese lead-acid batteries.
 
 | Metric | Data | Source |
 |--------|------|--------|
-| Standard | BCI (Group numbers) | :material-chart-bar: Industry Data |
-| Key Groups | 24, 27, 31, 35, 48/H6, 49/H8 | :material-chart-bar: Industry Data |
-| AGM Penetration | 30-40% (growing) | :material-calculator: Estimated |
+| Standard | BCI (~100%) | :material-chart-bar: Industry Data |
+| Key groups | 24, 27, 31, 35, 48/H6, 49/H8, 94R/H7 | :material-chart-bar: Industry Data |
+| AGM share | ~30-40% | :material-chart-bar: Industry Data |
+| Domestic mfg | Clarios, East Penn, Exide (>80% share) | :material-open-in-new: Third-party |
+| Anti-dumping | **Yes — significant duties** | :material-open-in-new: Third-party |
 
-## Market Characteristics
+## Barriers to Entry
 
-- BCI standard with SAE terminals — fundamentally different from JIS/DIN.
-- High anti-dumping duties on Chinese batteries.
-- Three domestic manufacturers control >80%.
-
-!!! warning "Anti-Dumping Duties"
-    Chinese lead-acid batteries face significant US anti-dumping duties. Consult a customs broker before planning imports.
+- **Anti-dumping duties** on Chinese lead-acid batteries — typically 50-100%+
+- **Three domestic manufacturers control >80%** of the market
+- **BCI standard** with SAE terminals — fundamentally different from JIS/DIN
+- **Strict warranty expectations** — 3-5 year free replacement common
+- **Big-box retail dominance** — Walmart, AutoZone, Advance Auto Parts
 
 ## Chengguang Position
 
-:material-factory: NOT a primary market for Chengguang. We can manufacture BCI specifications but recommend verifying duty implications.
+:material-factory: North America is **NOT** a primary market for Chengguang due to anti-dumping duties. We can manufacture BCI-specification batteries but strongly recommend importers verify current duty rates with a US customs broker before ordering.
 
+!!! danger "Anti-Dumping Warning"
+    Chinese-origin lead-acid batteries face significant US anti-dumping duties. Duties may exceed the battery cost. Verify with a licensed customs broker before planning any US imports.
 
 !!! info "Data Classification"
     | Tag | Meaning |
     |-----|---------|
-    | :material-factory: **Chengguang Data** | Official Chengguang Power Tech data |
-    | :material-chart-bar: **Industry Data** | Published industry reports and statistics |
-    | :material-open-in-new: **Third-party Data** | External sources cited |
-    | :material-calculator: **Estimated** | Reasonable estimates, not verified |
-
+    | :material-factory: Chengguang Data | Official data — verified |
+    | :material-chart-bar: Industry Data | Published reports |
+    | :material-calculator: Estimated | Reasonable estimates |
 
 ---
 
 *Last updated: 2026-08-11 | [Chengguang Power Tech Co., Ltd.](https://chengguangenergy.com/)*
+
+:material-family-tree: [Battery Database](https://data.chengguangenergy.com/) · [Technical Center](https://technical.chengguangenergy.com/) · [OEM Manufacturing](https://oem.chengguangenergy.com/)
