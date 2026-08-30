@@ -2,6 +2,47 @@
 title: "South America Battery Market"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which standards are used in South America?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "South America is a mixed-standard market using JIS for Japanese vehicles, DIN for European vehicles, and some BCI for American vehicles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there local manufacturing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local manufacturing is limited outside Brazil, making the region largely import-dependent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which models are popular?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "105D31 and DIN models are popular, and Chengguang offers Spanish and Portuguese labeling for the region."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is South American demand growing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A growing middle class in markets such as Chile, Peru, and Colombia, combined with limited local manufacturing, supports import demand."
+      }
+    }
+  ]
+}
+</script>
+
 # South America Battery Market
 
 ## Market Overview

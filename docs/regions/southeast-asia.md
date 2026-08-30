@@ -2,6 +2,55 @@
 title: "Southeast Asia Battery Market"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which battery standard is used in Southeast Asia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Southeast Asia is nearly 100% JIS because Japanese vehicle brands dominate the market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which models are most popular?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "55B24, 55D23, and 65D26 are the key models, with NS70 also common in Indonesia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there local battery manufacturing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Thailand is a major production hub, Indonesia is growing, and Vietnam is emerging, but significant import demand remains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the market's price sensitivity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Southeast Asia is highly price-competitive, so competitive pricing is essential alongside quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Chengguang's advantage there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chengguang offers IATF 16949 quality at competitive price points, with 55B24 and 65D26 as the key models for the region."
+      }
+    }
+  ]
+}
+</script>
+
 # Southeast Asia Battery Market
 
 ## Market at a Glance

@@ -2,6 +2,47 @@
 title: "Australia & Oceania Battery Market"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which battery standard is used in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Australia uses JIS standard batteries, with Australian Standard (AS) acceptance for JIS models."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which models are most common?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "65D26 and 105D31 are the top models for the Australian market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the market characteristics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The hot climate means batteries are often replaced every 2-3 years, and the market is quality-oriented and less price-sensitive than some developing markets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Chengguang supply Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Chengguang exports to Australia with AS documentation for its JIS models."
+      }
+    }
+  ]
+}
+</script>
+
 # Australia & Oceania Battery Market
 
 ## Market Overview

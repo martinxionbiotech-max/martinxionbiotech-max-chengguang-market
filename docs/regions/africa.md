@@ -2,6 +2,55 @@
 title: "Africa Battery Market"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is Africa Chengguang's largest market?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Africa combines a large, rapidly motorizing population, limited local battery manufacturing, and high import dependence, making it the most important region for imported automotive batteries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which standards are used in Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "East and Southern Africa primarily use JIS, while West and North Africa use DIN, with JIS used widely as well."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which models are in highest demand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "65D26, 55D23, and 55B24 lead in East Africa; DIN66-DIN100 in West and North Africa; and 65D26, 105D31, and 95E41 in Southern Africa."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is average battery life in Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Average life is estimated at 12-18 months because of rough roads and high heat, making replacement demand frequent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation does Chengguang provide for Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "French and English labeling is standard, and PSI/CoC documentation is provided for markets that require it, such as Kenya, Nigeria, and Tanzania."
+      }
+    }
+  ]
+}
+</script>
+
 # Africa Battery Market
 
 ## Market at a Glance

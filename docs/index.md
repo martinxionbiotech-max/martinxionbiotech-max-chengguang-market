@@ -3,6 +3,70 @@ hide:
   - toc
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://market.chengguangenergy.com/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the Chengguang market intelligence site cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It covers regional battery demand, applicable standards, technology trends, and OEM supply opportunities for automotive battery importers and distributors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which regions does Chengguang serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Africa is the largest market, followed by the Middle East, with Southeast Asia, Europe, North America, South America, Australia/Oceania, and Russia/CIS also profiled."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which battery standards dominate the markets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JIS and DIN dominate developing markets and much of Asia, Africa, and the Middle East; North America uses BCI; Australia and South Africa accept JIS-style batteries under AS and SA respectively."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the technology trend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SLI remains the global volume leader, while AGM and EFB are growing fastest in Europe and North America because start-stop vehicles require them."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are the market statistics exact?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Figures labeled as estimates or industry data are directional; verified Chengguang data is tagged separately. Importers should confirm current market conditions before ordering."
+      }
+    }
+  ]
+}
+</script>
+
 # Automotive Battery Market Intelligence
 
 Regional market analysis for battery importers and distributors. Understand where demand is, which standards apply, and where Chengguang can supply.

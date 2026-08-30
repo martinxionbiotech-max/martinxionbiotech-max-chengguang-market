@@ -2,6 +2,47 @@
 title: "Europe Battery Market"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which battery standard does Europe use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Europe is approximately 100% DIN standard for automotive starting batteries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What technology transition is happening in Europe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start-stop vehicle mandates are shifting demand from standard SLI toward AGM and EFB, with AGM estimated at roughly 30-40% of the market and growing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Chengguang supply AGM and EFB?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Chengguang offers AGM/EFB for OEM supply on request, manufactures 7 DIN-standard models, and provides CE-marked and REACH-compliant products."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main barriers for new importers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strong brand loyalty, CE marking and REACH compliance, and competition from established European brands such as Varta, Bosch, Exide, and Banner."
+      }
+    }
+  ]
+}
+</script>
+
 # Europe Battery Market
 
 ## Market at a Glance

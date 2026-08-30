@@ -1,3 +1,65 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://market.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Regions",
+      "item": "https://market.chengguangenergy.com/regions/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which regions are covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eight regions: Middle East, Southeast Asia, Africa, Europe, North America, South America, Australia/Oceania, and Russia/CIS."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which are the highest-volume regions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Africa is Chengguang's largest export market, with the Middle East also a major high-volume, heat-driven replacement market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which standard applies in each region?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Middle East uses JIS plus DIN, Southeast Asia is nearly all JIS, Europe is DIN, North America is BCI, South America is mixed, Australia uses JIS with AS acceptance, and Russia/CIS uses DIN."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should a new importer start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your standard and price position: JIS markets such as Africa and the Middle East offer high volume, while Europe is a DIN market with AGM/EFB growth."
+      }
+    }
+  ]
+}
+</script>
+
 # Regional Battery Markets
 
 | Region | Standard | Key Models | Opportunity |

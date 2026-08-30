@@ -2,6 +2,47 @@
 title: "North America Battery Market"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is North America a primary market for Chengguang?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Significant US anti-dumping duties on Chinese lead-acid batteries make North America difficult for Chengguang to serve competitively."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which battery standard is used in North America?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "North America is approximately 100% BCI standard, using groups such as 24, 27, 31, 35, 48/H6, 49/H8, and 94R/H7."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should an importer check before ordering BCI batteries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify current anti-dumping duty rates with a licensed US customs broker, because duties can exceed the battery cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Chengguang manufacture BCI batteries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chengguang can manufacture BCI-specification batteries, but strongly recommends confirming duty exposure and market economics first."
+      }
+    }
+  ]
+}
+</script>
+
 # North America Battery Market
 
 ## Market at a Glance
