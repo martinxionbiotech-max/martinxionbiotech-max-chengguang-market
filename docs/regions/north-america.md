@@ -1,5 +1,6 @@
 ---
 title: "North America Battery Market"
+description: "North America is the world's largest BCI-standard battery market but the most difficult for foreign manufacturers to enter, due to significant anti-dumping duties on Chinese lead-acid batteries."
 ---
 
 <script type="application/ld+json">

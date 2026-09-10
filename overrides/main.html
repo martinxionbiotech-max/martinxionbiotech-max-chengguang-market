@@ -75,6 +75,7 @@
     "@id": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}#webpage",
     "url": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}",
     "name": "{{ page.title if page else config.site_name }}",
+    "description": "{{ page.meta.description if page and page.meta and page.meta.description else config.site_description }}",
     "isPartOf": { "@id": "https://market.chengguangenergy.com/#website" },
     "about": { "@id": "https://chengguangenergy.com/#organization" },
     "author": { "@id": "https://chengguangenergy.com/#organization" }

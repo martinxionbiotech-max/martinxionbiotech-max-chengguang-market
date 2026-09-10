@@ -1,5 +1,6 @@
 ---
 title: "Middle East Battery Market"
+description: "The Middle East is one of the world's largest automotive battery import markets, with extreme 40–50°C summer temperatures, SUV-dominated fleets and almost zero local battery manufacturing."
 ---
 
 <script type="application/ld+json">

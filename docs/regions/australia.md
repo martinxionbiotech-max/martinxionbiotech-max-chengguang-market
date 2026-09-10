@@ -1,5 +1,6 @@
 ---
 title: "Australia & Oceania Battery Market"
+description: "Australia & Oceania is a JIS-standard battery market with AS acceptance for JIS batteries, serving a mature vehicle parc that imports nearly all of its automotive starting batteries."
 ---
 
 <script type="application/ld+json">

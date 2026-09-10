@@ -1,5 +1,6 @@
 ---
 title: "Africa Battery Market"
+description: "Africa is Chengguang's largest export market and one of the world's fastest-growing battery markets — 54 countries, over 1.4 billion people and almost no local battery manufacturing create high-volume import demand."
 ---
 
 <script type="application/ld+json">

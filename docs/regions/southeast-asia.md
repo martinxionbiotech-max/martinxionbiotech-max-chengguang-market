@@ -1,5 +1,6 @@
 ---
 title: "Southeast Asia Battery Market"
+description: "Southeast Asia is a predominantly JIS-standard battery market with a large growing fleet, near-100% JIS adoption from Japanese brand dominance, and significant remaining import demand."
 ---
 
 <script type="application/ld+json">

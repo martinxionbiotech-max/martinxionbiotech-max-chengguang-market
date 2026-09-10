@@ -1,5 +1,6 @@
 ---
 title: "South America Battery Market"
+description: "South America is a mixed-standard battery market — JIS for Japanese vehicles, DIN for European, and some BCI for American — with growing fleets and import-dependent supply."
 ---
 
 <script type="application/ld+json">

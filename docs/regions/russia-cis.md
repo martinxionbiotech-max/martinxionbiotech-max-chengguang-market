@@ -1,5 +1,6 @@
 ---
 title: "Russia & CIS Battery Market"
+description: "Russia and the CIS form a DIN-standard battery market with extreme cold-climate requirements that demand high cold-cranking performance and robust winter specifications."
 ---
 
 <script type="application/ld+json">
