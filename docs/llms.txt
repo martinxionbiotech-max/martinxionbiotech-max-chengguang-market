@@ -9,3 +9,12 @@ Regional battery market analysis and demand trends for automotive battery import
 - Europe: https://market.chengguangenergy.com/regions/europe/
 - SLI Market: https://market.chengguangenergy.com/technologies/sli/
 - AGM Market: https://market.chengguangenergy.com/technologies/agm/
+
+## Ecosystem
+
+- [Main Site](https://chengguangenergy.com/): Factory, capabilities, certifications, contact
+- [Battery Database](https://data.chengguangenergy.com/): Models, specifications, cross-reference
+- [Technical Center](https://technical.chengguangenergy.com/): Technology, engineering, testing
+- [OEM Manufacturing](https://oem.chengguangenergy.com/): Private label, custom, OEM process
+- [Market Intelligence](https://market.chengguangenergy.com/): Regional demand and market trends — **this site**
+- [Battery Tools](https://tool.chengguangenergy.com/): Finders, calculators, cross-reference tools
