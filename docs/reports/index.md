@@ -29,12 +29,12 @@
       "name": "Are detailed market reports currently available?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Detailed reports are planned but not yet published. Custom market intelligence is available by contacting Chengguang directly."
+        "text": "Yes. Four structural market analyses are published: the Africa Battery Import Analysis, the Middle East Battery Market, AGM vs EFB Adoption Trends, and the JIS Standard Global Map. They contain no market-size or growth figures; custom intelligence is available on request."
       }
     },
     {
       "@type": "Question",
-      "name": "Which reports are planned?",
+      "name": "Which reports are published?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Africa Battery Import Analysis, Middle East Battery Market Sizing, AGM vs EFB Technology Adoption Trends, and a JIS Standard Global Market Map."
@@ -65,7 +65,7 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Chengguang Automotive Battery Market Reports",
-  "description": "Planned automotive battery market reports covering Africa import analysis, Middle East market sizing, AGM vs EFB technology trends, and the global JIS standard map.",
+  "description": "Structural automotive battery market analyses covering Africa import patterns, the Middle East market, AGM vs EFB adoption trends, and the global JIS standard map.",
   "author": {
     "@type": "Organization",
     "name": "Chengguang Power Tech Technical Team",
@@ -87,15 +87,15 @@
 
 # Market Reports
 
-!!! info "Coming Soon"
-    Detailed market reports with import/export statistics, competitor analysis, and demand forecasting will be added in future updates.
+!!! info "Structural analyses — no market-size figures"
+    These reports analyse the **structure** of each market (standards, technology mix, demand drivers) rather than quoting market-size or growth figures. Qualitative statements are marked *indicative*. No fabricated market data.
 
-## Planned Reports
+## Published Reports
 
-- Africa Battery Import Analysis (2025-2026)
-- Middle East Battery Market Sizing
-- AGM vs EFB Technology Adoption Trends
-- JIS Standard Global Market Map
+- [Africa Battery Import Analysis](africa-battery-import/index.md) — standards and demand drivers by sub-region
+- [Middle East Battery Market](middle-east-battery-market/index.md) — mixed standards and the heat constraint
+- [AGM vs EFB Adoption Trends](agm-efb-adoption/index.md) — technology shift driven by start-stop
+- [JIS Standard Global Map](jis-standard-global-map/index.md) — where JIS, DIN and BCI apply
 
 [Contact Chengguang](https://chengguangenergy.com/contact/) for custom market intelligence requests.
 

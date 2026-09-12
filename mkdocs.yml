@@ -49,3 +49,7 @@ nav:
       - standards/sa.md
   - Reports:
       - reports/index.md
+      - reports/africa-battery-import/index.md
+      - reports/middle-east-battery-market/index.md
+      - reports/agm-efb-adoption/index.md
+      - reports/jis-standard-global-map/index.md
